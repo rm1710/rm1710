@@ -12,7 +12,7 @@ I'm backend and frontend developer who loves java for backend development. Conti
 *   🖥️  See my portfolio at [MyPortflio](http://rm-profile-portfolio.netlify.app/)
 *   ✉️  You can contact me at [riteshm475@gmail.com](mailto:riteshm475@gmail.com)
 *   🧠  I'm learning java
-*   🤝  I'm open to collaborating on projects<br><br>
+*   🤝  I'm open to collaborating on projects<br>
 *   <a href="https://www.github.com/rm1710" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/rm1710?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><br><br>
   <p align="left">
