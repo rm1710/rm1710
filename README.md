@@ -54,7 +54,8 @@ I'm backend and frontend developer who loves java for backend development. Conti
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
                     </picture>
-                    </a></p>### Badges<b>My GitHub Stats</b><a
+                    </a></p><br>
+                    <b>My GitHub Stats</b><a
                       href="http://www.github.com/rm1710"><img src="https://github-readme-stats.vercel.app/api?username=rm1710&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rm1710's GitHub stats" /></a>
                       <a
                       href="http://www.github.com/rm1710"><img
