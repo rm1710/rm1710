@@ -74,6 +74,7 @@ I'm backend and frontend developer who loves java for backend development. Conti
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" />
   </a>
+  <a href="https://iconscout.com/icons/netlify" class="text-underline font-size-sm" target="_blank">Netlify</a> by <a href="https://iconscout.com/contributors/icon-54" class="text-underline font-size-sm" target="_blank">Icon 54</a>
 </p>
 
 ### Socials
