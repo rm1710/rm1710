@@ -7,7 +7,7 @@ Backend and Frontend developer
 I'm backend and frontend developer who loves java for backend development. Continuously learning and exploring new technologies.
 
 * 🌍  I'm based in Mumbai, Maharashtra, India
-* 🖥️  See my portfolio at [MyPortflio](http://rm-profile-portfolio.netlify.app/)
+* 🖥️  See my portfolio at [My Portfolio](http://rm-profile-portfolio.netlify.app/)
 * ✉️  You can contact me at [riteshm475@gmail.com](mailto:riteshm475@gmail.com)
 * 🧠  I'm learning java
 * 🤝  I'm open to collaborating on projects
