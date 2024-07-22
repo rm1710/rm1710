@@ -16,7 +16,7 @@ I'm backend and frontend developer who loves java for backend development. Conti
   <img src="https://img.shields.io/github/followers/rm1710?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
-
+<b>My Skills</b>
 <p align="left">
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
@@ -72,9 +72,9 @@ I'm backend and frontend developer who loves java for backend development. Conti
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" />
   </a>
-  
 </p>
 
+<b>Social Media</b>
 <p align="left">
   <a href="https://www.github.com/rm1710" target="_blank" rel="noreferrer">
     <picture>
