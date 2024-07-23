@@ -97,8 +97,8 @@ I'm backend and frontend developer who loves java for backend development. Conti
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
     </picture>
   </a>
-  <a href="https://leetcode.com/u/rm1710/">
-    <img src="leetcode2.png" width="52" height="40">
+  <a href="https://leetcode.com/u/rm1710/"  style="margin-top:4px;">
+    <img src="leetcode2.png" width="52" height="38">
   </a>
 </p>
 
