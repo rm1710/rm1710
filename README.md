@@ -99,8 +99,6 @@ I'm backend and frontend developer who loves java for backend development. Conti
   </a>&nbsp;
   <a href="https://leetcode.com/u/rm1710/"  style="margin-top:4px;">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/leetcode-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/leetcode.svg" />
       <img src="leetcode2.png" width="52" height="38">
     </picture>
   </a>
