@@ -98,7 +98,7 @@ I'm backend and frontend developer who loves java for backend development. Conti
     </picture>
   </a>
   <a href="https://leetcode.com/u/rm1710/">
-    <img src="leetcode2.png" width="52" height="32">
+    <img src="leetcode2.png" width="52" height="40">
   </a>
 </p>
 
