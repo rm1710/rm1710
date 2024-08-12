@@ -7,7 +7,7 @@ Full Stack developer
 
  # 💫 About Me:
 🌍  I'm based in Mumbai, Maharashtra, India<br>
-🖥️  See my portfolio at <a href="rm-profile-portfolio.netlify.app">My Portfolio</a><br>
+🖥️  See my portfolio at <a href="rm-profile-portfolio.netlify.app/">My Portfolio</a><br>
 ✉️  You can contact me at riteshm475@gmail.com<br>
 🧠  I'm learning java<br>
 🤝  I'm open to collaborating on projects
