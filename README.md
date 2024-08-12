@@ -3,7 +3,7 @@ Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 Full Stack developer
 ------------------------------
-<img src="gitImage/technology.jpg" width="200px">
+<img src="gitImage/technology.jpg" height="200px">
 
  # 💫 About Me:
 🌍  I'm based in Mumbai, Maharashtra, India<br>🖥️  See my portfolio at My Portfolio<br>✉️  You can contact me at riteshm475@gmail.com<br>🧠  I'm learning java<br>🤝  I'm open to collaborating on projects
