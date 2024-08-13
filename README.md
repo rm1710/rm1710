@@ -3,7 +3,7 @@ Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 Full Stack developer
 ------------------------------
-<img src="gitImage/technology.jpg">
+<img src="GitImage/technology.jpg">
 
  # 💫 About Me:
 🌍  I'm based in Mumbai, Maharashtra, India<br>
