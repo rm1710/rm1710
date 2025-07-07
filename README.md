@@ -96,8 +96,7 @@
 
 <!-- Tools with Animation -->
 <div align="center">
-
-### <img src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" width="30"> Tools & Technologies
+ Tools & Technologies
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,&theme=dark&perline=5" />
 
