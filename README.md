@@ -88,7 +88,7 @@
 <!-- Cloud & Deployment with Animation -->
 <div align="center">
 
-### <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30"> Cloud & Deployment
+###  Cloud & Deployment
 
 <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,github&theme=dark&perline=4" />
 
@@ -96,7 +96,7 @@
 
 <!-- Tools with Animation -->
 <div align="center">
- Tools & Technologies
+    <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30"> Tools & Technologies
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,&theme=dark&perline=5" />
 
