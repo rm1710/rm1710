@@ -51,56 +51,48 @@
 
 ---
 
-<!-- Animated Tech Stack -->
+<!-- Normal Tech Stack Section -->
 <div align="center">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"> Tech Stack & Skills
 
 </div>
 
-<!-- Programming Languages with Animation -->
-<div align="center">
+### 🚀 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Programming Languages
+### 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=java,js,python,cpp,r&theme=dark&perline=5" />
+### ⚙️ Backend & Database
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
-</div>
+### ☁️ Cloud & Deployment
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
 
-<!-- Frontend with Animation -->
-<div align="center">
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-### <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="30"> Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,vite&theme=dark&perline=6" />
-
-</div>
-
-<!-- Backend & Database with Animation -->
-<div align="center">
-
-### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="30"> Backend & Database
-
-<img src="https://skillicons.dev/icons?i=mysql,nodejs&theme=dark&perline=2" />
-
-</div>
-
-<!-- Cloud & Deployment with Animation -->
-<div align="center">
-
-###  Cloud & Deployment
-
-<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,github&theme=dark&perline=4" />
-
-</div>
-
-<!-- Tools with Animation -->
-<div align="center">
-    <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30"> Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,&theme=dark&perline=5" />
-
-</div>
+### 🔧 Hardware & IoT
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 
 ---
 
@@ -124,10 +116,32 @@
 
 ---
 
+<!-- Animated Activity Graph -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rm1710&theme=react-dark&bg_color=0D1117&hide_border=true&line=F85D7F&point=FFFFFF&color=FFFFFF&area_color=F85D7F&area=true" width="100%"/>
+
+</div>
+
+---
+
+<!-- Animated Trophies -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="35"> GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=rm1710&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
+
+</div>
+
+---
+
 <!-- Animated Contribution Stats -->
 <div align="center">
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35"> Contribution Stats
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35"> Top Contributed Repositories
 
 <img src="https://github-contributor-stats.vercel.app/api?username=rm1710&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true"/>
 
@@ -149,8 +163,52 @@
 - 👯 Looking to collaborate on **Open Source Projects**
 - 🤔 Exploring **Cloud Technologies & DevOps**
 - 💬 Ask me about **React, JavaScript, Java, Python**
+- ⚡ Fun fact: **I debug with console.log() and I'm proud of it!**
 
 <br clear="both"/>
+
+---
+
+<!-- Animated Quote -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="35"> Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=grow_out_in&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House"/>
+
+</div>
+
+---
+
+<!-- Animated Visitor Counter -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="35"> Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=rm1710&label=Profile%20views&color=F85D7F&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+---
+
+<!-- Animated Footer -->
+<div align="center">
+
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Show some ❤️ by starring some of my repositories! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
+
+<!-- Animated Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+</div>
+
+<!-- Animated Music -->
+<div align="center">
+
+### 🎵 Currently Vibing To
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31k6txkjn5lnzbdmas6uqh3wvhbm)
+
+</div>
 
 <!-- Fun Animations -->
 <div align="center">
