@@ -101,42 +101,18 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 
-<!-- Animated GitHub Stats Cards -->
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rm1710&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&border_radius=15"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rm1710&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_radius=15"/>
+<!-- GitHub Stats Cards -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rm1710&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rm1710&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_radius=15"/>
 
 </div>
 
-<!-- Animated Streak Stats -->
+<!-- Streak Stats -->
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rm1710&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=FFFFFF" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=rm1710&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=FFFFFF" alt="GitHub Streak" />
 
 </div>
-
----
-
-<!-- Animated Activity Graph -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rm1710&theme=react-dark&bg_color=0D1117&hide_border=true&line=F85D7F&point=FFFFFF&color=FFFFFF&area_color=F85D7F&area=true" width="100%"/>
-
-</div>
-
----
-
-<!-- Animated Trophies -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="35"> GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=rm1710&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
-
-</div>
-
----
 
 <!-- Animated Contribution Stats -->
 <div align="center">
@@ -163,60 +139,9 @@
 - 👯 Looking to collaborate on **Open Source Projects**
 - 🤔 Exploring **Cloud Technologies & DevOps**
 - 💬 Ask me about **React, JavaScript, Java, Python**
-- ⚡ Fun fact: **I debug with console.log() and I'm proud of it!**
 
 <br clear="both"/>
 
----
 
-<!-- Animated Quote -->
-<div align="center">
 
-## <img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="35"> Random Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&animation=grow_out_in&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House"/>
-
-</div>
-
----
-
-<!-- Animated Visitor Counter -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="35"> Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=rm1710&label=Profile%20views&color=F85D7F&style=for-the-badge" alt="Profile Views" />
-
-</div>
-
----
-
-<!-- Animated Footer -->
-<div align="center">
-
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Show some ❤️ by starring some of my repositories! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
-
-<!-- Animated Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
-</div>
-
-<!-- Animated Music -->
-<div align="center">
-
-### 🎵 Currently Vibing To
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31k6txkjn5lnzbdmas6uqh3wvhbm)
-
-</div>
-
-<!-- Fun Animations -->
-<div align="center">
-
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-
-**Thanks for visiting! Have a great day!** 
-
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-
-</div>
